@@ -63,7 +63,7 @@ span{
 
 }
 
-@media (max-width: 960px){
+@media (min-width: 641px) and (max-width: 960px){
 
   .tile-image{
     width: 100%;
